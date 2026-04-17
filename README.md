@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- ⚡ I'm KesiZija and I love expanding my knowledge and enhancing my skills.
-- 🌱 I’m currently learning Python! And Spanish. 😄
+- ⚡ I'm Marija and I love expanding my knowledge and enhancing my skills.
+- 🌱 I’m currently learning Python! And German. 😄
 - 📫 How to reach me: Can you send messages on GitHub? That'd be awesome.
 
 Let's get this party started :zzz:
